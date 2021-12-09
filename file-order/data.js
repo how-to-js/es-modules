@@ -1,1 +1,1 @@
-data = "lorem ipsum";
+const data = "lorem ipsum";

@@ -1,1 +1,1 @@
-data = "sin dolor";
+var data = "sin dolor";

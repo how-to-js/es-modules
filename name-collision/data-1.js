@@ -1,1 +1,1 @@
-data = "lorem ipsum";
+var data = "lorem ipsum";
